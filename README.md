@@ -6,3 +6,4 @@
 
 # Open Source Projects Contributed to:
 - Update Article on accessing Mumbai testnet and faucet: https://blog.pods.finance/guide-connecting-mumbai-testnet-to-your-metamask-87978071aca8
+- Subgraph created with GraphQL: https://thegraph.com/hosted-service/subgraph/scottlozano/artmarket
