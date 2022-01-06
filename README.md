@@ -8,3 +8,5 @@
 - Update Article on accessing Mumbai testnet and faucet: https://blog.pods.finance/guide-connecting-mumbai-testnet-to-your-metamask-87978071aca8
 - Subgraph created with GraphQL: https://thegraph.com/hosted-service/subgraph/scottlozano/artmarket
 - Comments on Docker fix: https://github.com/docker/getting-started/issues/124#issuecomment-1005431523
+- Comment on Solana CLI tool installation process for Apple M1 chips: https://github.com/project-serum/anchor/issues/95
+- 
